@@ -1,0 +1,10 @@
+Steinkjer,Byåsen,3-5
+Byåsen,Steinkjer,2-1
+Byåsen,Kvik Halden,2-10
+Byåsen,Borg,0-0
+Borg,Lade,3-2
+Byåsen,Borg,0-0
+Lade,Steinkjer,5-1
+Nardo,Borg,3-3
+Borg,Nardo,11-3
+Steinkjer,Borg,2-2

@@ -1,0 +1,9 @@
+###################################
+# Navn             Poeng   Kamper #
+# Borg             10      6      #
+# Byåsen           8       5      #
+# Lade             3       2      #
+# Kvik Halden      3       1      #
+# Steinkjer        1       4      #
+# Nardo            1       2      #
+###################################
