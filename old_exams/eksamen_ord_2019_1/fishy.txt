@@ -1,0 +1,8 @@
+N64Ø:torsk:343
+N434:torsk:200
+Z4F:torsk:120
+N64Ø:torsk:200
+N64Ø:hyse:110
+NB4A:kveite:100
+Z4F:hyse:120
+N64Ø:kveite:300
